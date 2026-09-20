@@ -1,1 +1,1 @@
-# E-commerce-order-inventory-management-system-in-SQL
+A relational database simulating a real e-commerce backend — customers, products, orders, inventory, and payments — built to demonstrate schema design, query optimization, and use of stored procedures/triggers/views (not just SELECT statements).
